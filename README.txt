@@ -1,66 +1,76 @@
 UMUT CAN KUCUKTURHAN — MUSIC PORTFOLIO
-========================================
+======================================
 
-WHAT IS INSIDE
---------------
-index.html     Main portfolio page
-styles.css     Visual design
-script.js      Track names + audio player
-audio/         Web-ready MP3 versions of your four tracks
+Electronic Music Producer & Composer
 
-HOW TO RENAME THE TRACKS
-------------------------
-Open script.js with any text editor.
+This repository contains the personal music production portfolio
+of Umut Can Kucukturhan.
 
-Near the top you will see:
+The portfolio presents a selection of original instrumental,
+electronic and soundtrack-oriented productions created using
+PreSonus Studio One.
 
-title: "TRACK NAME 02"
-title: "TRACK NAME 04"
 
-Replace only those names and save.
+SELECTED WORK
+-------------
 
-You can also edit:
-genre: "..."
-note: "..."
+01 — Ain't U Feel
 
-HOW TO OPEN IT ON YOUR COMPUTER
--------------------------------
-Double-click index.html.
+02 — Never Give Up
 
-If your browser blocks local audio playback for any reason,
-run a simple local server from this folder:
+03 — Collapse
 
-Python:
-  python -m http.server 8000
+04 — Intro
 
-Then open:
-  http://localhost:8000
 
-HOW TO PUT IT ONLINE FOR FREE WITH GITHUB PAGES
------------------------------------------------
-1. Create a GitHub account if you do not already have one.
-2. Create a PUBLIC repository named:
-      music-portfolio
-3. Upload ALL files and folders from this portfolio folder.
-   Important: index.html must be at the repository root.
-4. Open the repository:
-      Settings > Pages
-5. Under "Build and deployment":
-      Source: Deploy from a branch
-      Branch: main
-      Folder: /(root)
-6. Click Save.
-7. GitHub will give you an address similar to:
-      https://YOURUSERNAME.github.io/music-portfolio/
+PORTFOLIO STRUCTURE
+-------------------
 
-Use that URL in job applications as your Portfolio / Work Samples link.
+index.html
+Main portfolio page.
 
-BEFORE PUBLISHING
------------------
-- Rename TRACK NAME 02 and TRACK NAME 04 in script.js.
-- Check your email address in index.html.
-- If you want to add LinkedIn later, add it to the header/contact section.
-- Listen to every MP3 once after publishing to make sure playback works.
+styles.css
+Visual design, responsive layout and accessibility styling.
 
-The MP3 files were created from your original WAV files for faster web loading.
-Your original WAV files were not modified.
+script.js
+Track information and custom audio player.
+
+audio/
+Web-ready MP3 versions of the selected tracks.
+
+.nojekyll
+Allows the repository to be served directly through GitHub Pages.
+
+
+AUDIO FILES
+-----------
+
+audio/01-aint-u-feel.mp3
+
+audio/02-never-give-up.mp3
+
+audio/03-collapse.mp3
+
+audio/04-intro.mp3
+
+
+TOOLS
+-----
+
+Primary DAW:
+PreSonus Studio One
+
+
+CONTACT
+-------
+
+Umut Can Kucukturhan
+
+Email:
+umutcankucukturhan@gmail.com
+
+
+WEBSITE
+-------
+
+Hosted using GitHub Pages.
