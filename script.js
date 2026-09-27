@@ -10,25 +10,25 @@ const tracks = [
     title: "Ain't U Feel",
     genre: "Electronic / Instrumental",
     note: "Composition · Arrangement · Production",
-    src: "audio/01-aint-u-feel.mp3"
+    src: "audio/04-aint-u-feel.mp3"
   },
   {
-    title: "TRACK NAME 02",
+    title: "Never Give Up",
     genre: "Electronic / Atmospheric",
     note: "Composition · Arrangement · Production",
-    src: "audio/02-track-02.mp3"
+    src: "audio/03-Never give up.mp3"
   },
   {
     title: "Collapse",
     genre: "Cinematic Electronic / Instrumental",
     note: "Composition · Arrangement · Production",
-    src: "audio/03-collapse.mp3"
+    src: "audio/02-collapse.mp3"
   },
   {
-    title: "TRACK NAME 04",
+    title: "Intro",
     genre: "Soundtrack-Oriented / Electronic",
     note: "Composition · Arrangement · Production",
-    src: "audio/04-track-04.mp3"
+    src: "audio/01-intro.mp3"
   }
 ];
 
